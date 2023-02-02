@@ -1,1 +1,1 @@
-# Job searcg and recruitment platform
+# Job search and recruitment platform
