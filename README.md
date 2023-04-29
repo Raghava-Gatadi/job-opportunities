@@ -24,5 +24,9 @@
 ![peofile page 2](website_images/profile_page_2.png)
 ![profile page 3](website_images/profile_page_3.png)
 
+### Resume page
+![resume](website_images/resume1.png)
+![resume](website_images/resume2.png)
+
 ### contact us page
 ![contactus page](website_images/contact_us.png)
